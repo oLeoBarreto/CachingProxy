@@ -51,7 +51,7 @@ Example:
   dotnet run --clear-cache    
   
 ```
-## Autores
+## Author
 
 - [@oLeoBarreto](https://github.com/oLeoBarreto)
 
